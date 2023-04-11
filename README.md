@@ -21,7 +21,7 @@ To be updated
 1. At your project directory, clone this repo
 
 ```
-git clone https://github.com/karhong-sam/wqd7003-influenza-analysis.git
+git clone https://github.com/karhong-sam/project-wqd7003-ds-analysis.git
 ```
 2. Activate your venv (Windows)
 ```
@@ -32,11 +32,11 @@ python -m venv venv & venv\Scripts\activate
 pip install -r requirements.txt
 ```
 ## Team
-- TBD [TBD]()
-- TBD [TBD]()
-- TBD [TBD]()
-- TBD [TBD]()
-- TBD [TBD]()
+- TBD [wendycxz]()
+- TBD [Darvhind]()
+- TBD [jhwong97]()
+- TBD [dzafeer]()
+- Kar Hong Sam [karhong-sam](https://github.com/karhong-sam)
 
 ## Disclaimer
 TBD
