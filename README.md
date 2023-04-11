@@ -1,5 +1,5 @@
-# Influenza Analysis
-Analysing influenza outbreak for UM WQD7003 Data Analytics course.
+# Heart Disease Analysis
+Analysing likelihood of heart disease patient for UM WQD7003 Data Analytics course.
 
 ## Course Info
 Name: Data Analytics
