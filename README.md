@@ -9,9 +9,7 @@ Code: WQD7003
 Repo type: Group project
 
 ## Dataset Origin
-- Primary: [TBD]()
-
-- Secondary: [TBD]()
+- [Heart Disease Data](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
 
 ## Project Structure
 To be updated
@@ -32,10 +30,10 @@ python -m venv venv & venv\Scripts\activate
 pip install -r requirements.txt
 ```
 ## Team
-- TBD [wendycxz]()
-- TBD [Darvhind]()
-- TBD [jhwong97]()
-- TBD [dzafeer]()
+- Xing Zhao Chua [wendycxz](https://github.com/wendycxz)
+- Darvhind Magayndran [Darvhind](https://github.com/Darvhind)
+- Jia Hui Wong [jhwong97](https://github.com/jhwong97)
+- Syed Dzafeer Bin Syed Idrus [dzafeer](https://github.com/dzafeer)
 - Kar Hong Sam [karhong-sam](https://github.com/karhong-sam)
 
 ## Disclaimer
