@@ -40,3 +40,6 @@ pip install -r requirements.txt
 
 ## Disclaimer
 TBD
+
+## Project Proposal Slide
+https://www.canva.com/design/DAFgjScR3bo/TeDY7hnVhuSHETTM17V2SA/edit?utm_content=DAFgjScR3bo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
