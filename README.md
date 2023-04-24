@@ -42,7 +42,7 @@ streamlit run app.py
 ## Demo
 Check out the "Heart Diseases Prediction" on Streamlit
 
-![Heart Disease Prediction](demo\ml-deploy.gif)
+![Heart Disease Prediction](https://github.com/karhong-sam/project-wqd7003-ds-analysis/blob/kh_dev/demo/ml-deploy.gif)
 
 ## Team
 - Xing Zhao Chua [wendycxz](https://github.com/wendycxz)
