@@ -1,0 +1,15 @@
+Column,Source,Description,Remarks
+age,UCI Machine Learning Repository,Age of patient,Unit in Years
+sex,UCI Machine Learning Repository,"Sex of the patient (Male, Female)",Male or Female
+cp,UCI Machine Learning Repository,Chestpain Type,"Typical Angina (TA), Atypical Angina (ATA), Non-Anginal Pain (NAP), Asymptomatic (ASY)"
+tresbps,UCI Machine Learning Repository,Resting blood pressure (On admission to the hospital),Unit in mm Hg
+chol,UCI Machine Learning Repository,Serum cholesterol,Unit in mm/dl
+fbs,UCI Machine Learning Repository,Fasting blood sugar. More than 120mg/dl considered prediabetic.,>120mg/dl or <=120mg/dl
+restecg,UCI Machine Learning Repository,Resting electrocardiogram results,"Normal, ST-T wave abnormality, Left ventricular hypertrophy"
+thalach,UCI Machine Learning Repository,MaxHR: maximum heart rate achieved,Numeric value between 60 and 202
+exang,UCI Machine Learning Repository,ExerciseAngina: exercise-induced angina ,Yes or No
+oldpeak,UCI Machine Learning Repository,ST depression induced by exercise relative to rest.,Numeric value measured in depression
+slope,UCI Machine Learning Repository,ST_Slope: the slope of the peak exercise ST segment,"Upsloping, Flat, Downsloping"
+ca,UCI Machine Learning Repository,Number of major vessels,(0-3) colored by flourosopy
+thal,UCI Machine Learning Repository,Thalassemia Blood Disorder,"Dropped from dataset (Null), Fixed Defect (No blood flow in some part of the heart), Normal Blood Flow and Reversible Defect (A blood flow is observed but it is not normal)"
+target,UCI Machine Learning Repository,HeartDisease: output class,Have Heart Disease or Normal
