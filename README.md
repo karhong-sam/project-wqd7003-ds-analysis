@@ -17,7 +17,6 @@ To be updated
 ## How to use this Repository
 
 1. At your project directory, clone this repo
-
 ```
 git clone https://github.com/karhong-sam/project-wqd7003-ds-analysis.git
 ```
@@ -29,6 +28,22 @@ python -m venv venv & venv\Scripts\activate
 ```
 pip install -r requirements.txt
 ```
+
+## Deploying to Browser
+1. Pip install the streamlit for ML deployment
+```
+pip install streamlit
+```
+2. Run the streamlit command (note that `app.py` must be in same directory before running the command)
+```
+streamlit run app.py
+```
+
+## Demo
+Check out the "Heart Diseases Prediction" on Streamlit
+
+![Heart Disease Prediction](demo\ml-deploy.gif)
+
 ## Team
 - Xing Zhao Chua [wendycxz](https://github.com/wendycxz)
 - Darvhind Magayndran [Darvhind](https://github.com/Darvhind)
