@@ -40,7 +40,7 @@ streamlit run app.py
 ```
 
 ## Demo
-Check out the "Heart Diseases Prediction" on Streamlit
+Check out the **Heart Diseases Prediction** on Streamlit
 
 ![Heart Disease Prediction](https://github.com/karhong-sam/project-wqd7003-ds-analysis/blob/kh_dev/demo/ml-deploy.gif)
 
