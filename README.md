@@ -39,6 +39,10 @@ pip install streamlit
 streamlit run app.py
 ```
 
+## Accessing the deployment here
+
+[Heart Disease Prediction Web Application Hosted on Streamlit.io](https://karhong-sam-project-wqd7003-ds-analysis-app-udwt5d.streamlit.app/)
+
 ## Demo
 Check out the **Heart Diseases Prediction** on Streamlit
 
