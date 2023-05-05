@@ -83,8 +83,8 @@ def app():
     st.title('Heart Diseases Analytics Dashboard')
 
     # Get DataFrame
-    df = pd.read_csv('../dataset/Heart_clean.csv')
-    df_trans = pd.read_csv('../dataset/Heart_transform.csv')
+    df = pd.read_csv('dataset/Heart_clean.csv')
+    df_trans = pd.read_csv('dataset/Heart_transform.csv')
 
     # Define filters
     sex_filter_options = list(df['sex'].unique())
