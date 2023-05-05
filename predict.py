@@ -56,18 +56,17 @@ def app():
         # Create a form for user input
         with st.form(key='heart_form'):
             # Input for other features
-            # st.markdown(bold("Sex:"))
             sex = st.selectbox(field_names_list_bold[0], options=list(sex_options.keys()), format_func=lambda x: sex_options[x])
             cp = st.selectbox(field_names_list_bold[1], options=list(cp_options.keys()), format_func=lambda x: cp_options[x])
             trestbps = st.slider(field_names_list_bold[2], min_value=80, max_value=200, value=120)
             chol = st.number_input(field_names_list_bold[3], min_value=100, max_value=600, value=200)
             fbs = st.selectbox(field_names_list_bold[4], options=list(fbs_options.keys()), format_func=lambda x: fbs_options[x])
             restecg = st.selectbox(field_names_list_bold[5], options=[0, 1, 2], index=0)
-            thalach = st.slider(field_names_list_bold[6], min_value=60, max_value=220, value=150)
+            thalach = st.slider(field_names_list_bold[6], min_value=60, max_value=220, value=114)
             exang = st.selectbox(field_names_list_bold[7], options=list(exang_options.keys()), format_func=lambda x: exang_options[x])
-            oldpeak = st.slider(field_names_list_bold[8], min_value=0.0, max_value=6.0, value=0.0, step=0.1)
+            oldpeak = st.slider(field_names_list_bold[8], min_value=0.0, max_value=6.0, value=2.0, step=0.1)
             slope = st.selectbox(field_names_list_bold[9], options=[0, 1, 2], index=0)
-            ca = st.slider(field_names_list_bold[10], min_value=0, max_value=3, value=0)
+            ca = st.slider(field_names_list_bold[10], min_value=0, max_value=3, value=1)
             thal = st.selectbox(field_names_list_bold[11], options=list(thal_options.keys()), format_func=lambda x: thal_options[x])
 
             # Submit button
