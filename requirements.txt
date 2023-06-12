@@ -5,3 +5,4 @@ plotly
 jupyter
 missingno
 scikit-learn
+joblib
