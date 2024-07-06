@@ -6,3 +6,4 @@ jupyter
 missingno
 scikit-learn
 joblib
+python-3.9.16
