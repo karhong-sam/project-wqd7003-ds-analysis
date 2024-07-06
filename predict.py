@@ -45,7 +45,7 @@ def app():
     thal_options = {0: 'Normal', 1: 'Fixed Defect', 2: 'Reversable Defect'}
 
     # laod trained model
-    heart_model = joblib.load('trained_model/decision_tree_model_demo.joblib')
+    heart_model = joblib.load('trained_model/random_forest_model.joblib')
     # print(heart_model)
 
     # Create form submission
