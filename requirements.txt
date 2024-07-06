@@ -6,3 +6,5 @@ jupyter
 missingno
 scikit-learn
 joblib
+openpyxl
+lazypredict
